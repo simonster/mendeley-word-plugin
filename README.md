@@ -11,7 +11,7 @@ and is probably a better starting point for any free (as in AGPL) reference mang
 looking to implement integration with Word. However, I provide this code in case non-free
 implementers are interested, and because it's partly mine and it wants to be free.
 
-Do not ask me for support or assistance with this code. I will never touch it again.
+Do not ask me for support or assistance. I will never touch this code again.
 
 This distribution includes the following modules and class modules from Mendeley-1.5.1.dotm:
 
@@ -31,7 +31,7 @@ further information from Mendeley Ltd., are assumed to be closed source.
 Compatible versions of some of these files may be available in Mendeley's
 [openoffice-plugin](https://github.com/Mendeley/openoffice-plugin/tree/master/src) repository.
 
-Copyright (c) 2009-2012 Mendeley Ltd.
-Copyright (c) 2006      Center for History and New Media
-                        George Mason University, Fairfax, Virginia, USA
-                        http://chnm.gmu.edu
+	Copyright (c) 2009-2012 Mendeley Ltd.
+	Copyright (c) 2006      Center for History and New Media
+	                        George Mason University, Fairfax, Virginia, USA
+	                        http://chnm.gmu.edu
